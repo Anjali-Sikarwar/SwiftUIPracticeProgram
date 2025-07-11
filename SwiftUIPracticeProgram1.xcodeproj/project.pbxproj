@@ -18,8 +18,10 @@
 		8619FFEB2BD1263D00A5684B /* SpacerSwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8619FFEA2BD1263D00A5684B /* SpacerSwiftUI.swift */; };
 		8619FFED2BD6538C00A5684B /* InitializerSwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8619FFEC2BD6538C00A5684B /* InitializerSwiftUI.swift */; };
 		8619FFEF2BD669CC00A5684B /* ForEachLoopSwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8619FFEE2BD669CB00A5684B /* ForEachLoopSwiftUI.swift */; };
+		861A200F2E1EA9FE006F1878 /* PopoverSwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 861A200E2E1EA9FE006F1878 /* PopoverSwiftUI.swift */; };
 		867462062D32709100602AAF /* SafeAreaSwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 867462052D32709100602AAF /* SafeAreaSwiftUI.swift */; };
 		867462082D33DF2400602AAF /* ButtonsSwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 867462072D33DF2300602AAF /* ButtonsSwiftUI.swift */; };
+		867ED6582E17F613004D38C6 /* SheetsSwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 867ED6572E17F613004D38C6 /* SheetsSwiftUI.swift */; };
 		8697E0BC2D42B81E008A31F7 /* StateSwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8697E0BB2D42B81E008A31F7 /* StateSwiftUI.swift */; };
 		8697E1092D44D8AA008A31F7 /* ExtractedFunctionsSwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8697E1082D44D8AA008A31F7 /* ExtractedFunctionsSwiftUI.swift */; };
 		8697E10B2D44F0C1008A31F7 /* ExtractSubviewsSwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8697E10A2D44F0C1008A31F7 /* ExtractSubviewsSwiftUI.swift */; };
@@ -28,6 +30,7 @@
 		8697E1272D4A8A7C008A31F7 /* TernarySwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8697E1262D4A8A7C008A31F7 /* TernarySwiftUI.swift */; };
 		8697E1292D4B99F3008A31F7 /* AnimationSwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8697E1282D4B99F3008A31F7 /* AnimationSwiftUI.swift */; };
 		8697E12B2D4BAA94008A31F7 /* AnimationTimingSwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8697E12A2D4BAA94008A31F7 /* AnimationTimingSwiftUI.swift */; };
+		8697E12D2D512AA9008A31F7 /* TransitionSwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8697E12C2D512AA9008A31F7 /* TransitionSwiftUI.swift */; };
 		869F729B2BC7F26A00B663E6 /* GradientColorSwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 869F729A2BC7F26A00B663E6 /* GradientColorSwiftUI.swift */; };
 		86CE0F902BAC588800EE4CEC /* SwiftUIPracticeProgram1App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86CE0F8F2BAC588800EE4CEC /* SwiftUIPracticeProgram1App.swift */; };
 		86CE0F922BAC588800EE4CEC /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86CE0F912BAC588800EE4CEC /* ContentView.swift */; };
@@ -52,8 +55,10 @@
 		8619FFEA2BD1263D00A5684B /* SpacerSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpacerSwiftUI.swift; sourceTree = "<group>"; };
 		8619FFEC2BD6538C00A5684B /* InitializerSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InitializerSwiftUI.swift; sourceTree = "<group>"; };
 		8619FFEE2BD669CB00A5684B /* ForEachLoopSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForEachLoopSwiftUI.swift; sourceTree = "<group>"; };
+		861A200E2E1EA9FE006F1878 /* PopoverSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopoverSwiftUI.swift; sourceTree = "<group>"; };
 		867462052D32709100602AAF /* SafeAreaSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafeAreaSwiftUI.swift; sourceTree = "<group>"; };
 		867462072D33DF2300602AAF /* ButtonsSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonsSwiftUI.swift; sourceTree = "<group>"; };
+		867ED6572E17F613004D38C6 /* SheetsSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SheetsSwiftUI.swift; sourceTree = "<group>"; };
 		8697E0BB2D42B81E008A31F7 /* StateSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateSwiftUI.swift; sourceTree = "<group>"; };
 		8697E1082D44D8AA008A31F7 /* ExtractedFunctionsSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractedFunctionsSwiftUI.swift; sourceTree = "<group>"; };
 		8697E10A2D44F0C1008A31F7 /* ExtractSubviewsSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractSubviewsSwiftUI.swift; sourceTree = "<group>"; };
@@ -62,6 +67,7 @@
 		8697E1262D4A8A7C008A31F7 /* TernarySwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TernarySwiftUI.swift; sourceTree = "<group>"; };
 		8697E1282D4B99F3008A31F7 /* AnimationSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationSwiftUI.swift; sourceTree = "<group>"; };
 		8697E12A2D4BAA94008A31F7 /* AnimationTimingSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationTimingSwiftUI.swift; sourceTree = "<group>"; };
+		8697E12C2D512AA9008A31F7 /* TransitionSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransitionSwiftUI.swift; sourceTree = "<group>"; };
 		869F729A2BC7F26A00B663E6 /* GradientColorSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientColorSwiftUI.swift; sourceTree = "<group>"; };
 		86CE0F8C2BAC588800EE4CEC /* SwiftUIPracticeProgram1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIPracticeProgram1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		86CE0F8F2BAC588800EE4CEC /* SwiftUIPracticeProgram1App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIPracticeProgram1App.swift; sourceTree = "<group>"; };
@@ -132,7 +138,10 @@
 				8697E1242D4A7BF6008A31F7 /* ConditionalStatementSwiftUI.swift */,
 				8697E1262D4A8A7C008A31F7 /* TernarySwiftUI.swift */,
 				8697E1282D4B99F3008A31F7 /* AnimationSwiftUI.swift */,
+				8697E12C2D512AA9008A31F7 /* TransitionSwiftUI.swift */,
 				8697E12A2D4BAA94008A31F7 /* AnimationTimingSwiftUI.swift */,
+				867ED6572E17F613004D38C6 /* SheetsSwiftUI.swift */,
+				861A200E2E1EA9FE006F1878 /* PopoverSwiftUI.swift */,
 				86CE0F932BAC588A00EE4CEC /* Assets.xcassets */,
 				86CE0F9A2BAC588A00EE4CEC /* SwiftUIPracticeProgram1.xcdatamodeld */,
 				86CE0F952BAC588A00EE4CEC /* Preview Content */,
@@ -222,6 +231,8 @@
 				8615F1292BC6AB2500586AB9 /* ColorSwiftUI.swift in Sources */,
 				8697E10D2D4508A3008A31F7 /* BindingSwiftUI.swift in Sources */,
 				8619FFED2BD6538C00A5684B /* InitializerSwiftUI.swift in Sources */,
+				8697E12D2D512AA9008A31F7 /* TransitionSwiftUI.swift in Sources */,
+				861A200F2E1EA9FE006F1878 /* PopoverSwiftUI.swift in Sources */,
 				86CE0F992BAC588A00EE4CEC /* Persistence.swift in Sources */,
 				86CE0FA32BAC5D2900EE4CEC /* TextTest.swift in Sources */,
 				86CE0F922BAC588800EE4CEC /* ContentView.swift in Sources */,
@@ -231,6 +242,7 @@
 				86DAF5C42C2AC59000EED5DB /* GridSwiftUI.swift in Sources */,
 				8619FFE52BCEABCB00A5684B /* StacksSwiftUI.swift in Sources */,
 				8615F1272BC6841A00586AB9 /* ShapesSwiftUI.swift in Sources */,
+				867ED6582E17F613004D38C6 /* SheetsSwiftUI.swift in Sources */,
 				8619FFEB2BD1263D00A5684B /* SpacerSwiftUI.swift in Sources */,
 				869F729B2BC7F26A00B663E6 /* GradientColorSwiftUI.swift in Sources */,
 				8697E10B2D44F0C1008A31F7 /* ExtractSubviewsSwiftUI.swift in Sources */,
