@@ -39,6 +39,8 @@
 		86CE0F992BAC588A00EE4CEC /* Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86CE0F982BAC588A00EE4CEC /* Persistence.swift */; };
 		86CE0F9C2BAC588A00EE4CEC /* SwiftUIPracticeProgram1.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 86CE0F9A2BAC588A00EE4CEC /* SwiftUIPracticeProgram1.xcdatamodeld */; };
 		86CE0FA32BAC5D2900EE4CEC /* TextTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86CE0FA22BAC5D2900EE4CEC /* TextTest.swift */; };
+		86D89D982E20B11D00BEA1C3 /* NavigationViewSwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86D89D972E20B11D00BEA1C3 /* NavigationViewSwiftUI.swift */; };
+		86D89D9A2E234EEB00BEA1C3 /* ListSwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86D89D992E234EEB00BEA1C3 /* ListSwiftUI.swift */; };
 		86DAF5C22C29B0A200EED5DB /* ScrollViewSwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86DAF5C12C29B0A200EED5DB /* ScrollViewSwiftUI.swift */; };
 		86DAF5C42C2AC59000EED5DB /* GridSwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86DAF5C32C2AC59000EED5DB /* GridSwiftUI.swift */; };
 /* End PBXBuildFile section */
@@ -77,6 +79,8 @@
 		86CE0F982BAC588A00EE4CEC /* Persistence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Persistence.swift; sourceTree = "<group>"; };
 		86CE0F9B2BAC588A00EE4CEC /* SwiftUIPracticeProgram1.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = SwiftUIPracticeProgram1.xcdatamodel; sourceTree = "<group>"; };
 		86CE0FA22BAC5D2900EE4CEC /* TextTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextTest.swift; sourceTree = "<group>"; };
+		86D89D972E20B11D00BEA1C3 /* NavigationViewSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationViewSwiftUI.swift; sourceTree = "<group>"; };
+		86D89D992E234EEB00BEA1C3 /* ListSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListSwiftUI.swift; sourceTree = "<group>"; };
 		86DAF5C12C29B0A200EED5DB /* ScrollViewSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewSwiftUI.swift; sourceTree = "<group>"; };
 		86DAF5C32C2AC59000EED5DB /* GridSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridSwiftUI.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -142,6 +146,8 @@
 				8697E12A2D4BAA94008A31F7 /* AnimationTimingSwiftUI.swift */,
 				867ED6572E17F613004D38C6 /* SheetsSwiftUI.swift */,
 				861A200E2E1EA9FE006F1878 /* PopoverSwiftUI.swift */,
+				86D89D972E20B11D00BEA1C3 /* NavigationViewSwiftUI.swift */,
+				86D89D992E234EEB00BEA1C3 /* ListSwiftUI.swift */,
 				86CE0F932BAC588A00EE4CEC /* Assets.xcassets */,
 				86CE0F9A2BAC588A00EE4CEC /* SwiftUIPracticeProgram1.xcdatamodeld */,
 				86CE0F952BAC588A00EE4CEC /* Preview Content */,
@@ -232,6 +238,7 @@
 				8697E10D2D4508A3008A31F7 /* BindingSwiftUI.swift in Sources */,
 				8619FFED2BD6538C00A5684B /* InitializerSwiftUI.swift in Sources */,
 				8697E12D2D512AA9008A31F7 /* TransitionSwiftUI.swift in Sources */,
+				86D89D982E20B11D00BEA1C3 /* NavigationViewSwiftUI.swift in Sources */,
 				861A200F2E1EA9FE006F1878 /* PopoverSwiftUI.swift in Sources */,
 				86CE0F992BAC588A00EE4CEC /* Persistence.swift in Sources */,
 				86CE0FA32BAC5D2900EE4CEC /* TextTest.swift in Sources */,
@@ -243,6 +250,7 @@
 				8619FFE52BCEABCB00A5684B /* StacksSwiftUI.swift in Sources */,
 				8615F1272BC6841A00586AB9 /* ShapesSwiftUI.swift in Sources */,
 				867ED6582E17F613004D38C6 /* SheetsSwiftUI.swift in Sources */,
+				86D89D9A2E234EEB00BEA1C3 /* ListSwiftUI.swift in Sources */,
 				8619FFEB2BD1263D00A5684B /* SpacerSwiftUI.swift in Sources */,
 				869F729B2BC7F26A00B663E6 /* GradientColorSwiftUI.swift in Sources */,
 				8697E10B2D44F0C1008A31F7 /* ExtractSubviewsSwiftUI.swift in Sources */,

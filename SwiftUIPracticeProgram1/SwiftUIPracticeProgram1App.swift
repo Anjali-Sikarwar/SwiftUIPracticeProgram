@@ -13,7 +13,8 @@ struct SwiftUIPracticeProgram1App: App {
 
     var body: some Scene {
         WindowGroup {
-            ContentView()
+//            ContentView()
+            ListSwiftUI()
                 .environment(\.managedObjectContext, persistenceController.container.viewContext)
         }
     }
